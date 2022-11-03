@@ -673,6 +673,11 @@ styled-jsx@5.1.0:
   dependencies:
     client-only "0.0.1"
 
+supercons@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/supercons/-/supercons-0.0.1.tgz#b016f843ec930e30889dff01bdd5086398bbb4bd"
+  integrity sha512-ET70X83boPmv8ze9r5CuGXJCBZ9mbQ32RgE1CIwOX4K2hv9yA9mu8mtkt52VKER1PDZFSf5v/+9neLD5d1bFCQ==
+
 supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
